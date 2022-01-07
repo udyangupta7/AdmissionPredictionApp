@@ -1,3 +1,3 @@
 Student Admission Prediction app (deployed with Heroku.)
 
-Link: 
+Link: https://studentadmssnpredctnprjct.herokuapp.com
